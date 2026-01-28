@@ -12,6 +12,9 @@ Layout/LineLength:
 Style/Documentation:
   Enabled: false
 
+Style/ArgumentsForwarding:
+  UseAnonymousForwarding: false
+
 Metrics/BlockLength:
   AllowedMethods: ["describe", "context"]
 

@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - master
+      - testingtons
   pull_request:
 
 jobs:
